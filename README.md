@@ -1,4 +1,4 @@
-# docker-typescropt
+# docker-typescript
 ## 初回起動
 ```
 docker-compose build --no-cache
